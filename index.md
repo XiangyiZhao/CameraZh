@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+# My Publication
+Parallelization of all-nearest-neighbor-algorithm for Travelling Salesman Problem
+Publication at The 2nd International Conference on Automation Control, Algorithm and Intelligent Bionics (ACAIB 2022), December 2021
 
-You can use the [editor on GitHub](https://github.com/XiangyiZhao/CameraZh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Research
+## [Heterocl](https://heterocl.csl.cornell.edu/web/) in [Zhang Research Group](https://zhang.ece.cornell.edu/) at [CSL](https://www.csl.cornell.edu/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Cool Course Projects at Cornell
+## [WoodPlay Arcade](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/f2021/cp444_xz598/cp444_xz598/index.html) in [ECE 4760 Digital Systems Design Using Microcontrollers](https://people.ece.cornell.edu/land/courses/ece4760/)
 
-### Markdown
+## [Preditor&Prey Handheld Game](https://courses.ece.cornell.edu/ece5990/ECE5725_Spring2021_Projects/May_17/Hand%20Held%20Game/ECE%205725%20Web/index.html) in [ECE 5725 Embedded Operating Systems](https://skovira.ece.cornell.edu/ece5725/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [Light-following Robot](https://pages.github.coecis.cornell.edu/xz598/xz598_ECE3400_wiki_page/) in ECE 3400 Intelligent Physical Systems
+
+## [Reaction Competition](https://pages.github.coecis.cornell.edu/ece3140-sp2020/xz598-yz476/) in ECE 3140 Embedded Systems
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +33,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiangyiZhao/CameraZh/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
