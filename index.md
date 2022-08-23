@@ -1,5 +1,5 @@
 ### Internship
-ASIC Chip Solution Intern, Burlington, Vermont, Marvell (Remote) June 2022-Now
+ASIC Chip Solution Intern, Burlington, Vermont, Marvell (Remote)                                                    June 2022-Now
 - Evaluated the two chip size estimation methods in the quoting stage - Special Quote Team and Product Definition File, checked the alignment of their assumptions and key metrics, compared their accuracy with the actual die size
 -	Expanded the functionality of the QuoteParser tool to parse the chip size information sheet, extracted valuable information to website for later reference
 
@@ -14,7 +14,7 @@ Operating Systems Engineer Intern, Shenzhen, Guangdong, HUAWEI June-Aug. 2020
 -	Developed 20+ test cases for reuse buffers on matrices of different dimensions
 -	Constructed a tutorial with Sobel and Canny edge detection algorithms for new developers
 
-Parallel Programming and Architecture Online Research Seminar July-Aug. 2021
+Parallel Programming and Architecture Online Research Seminar                                                        July-Aug. 2021
 -	Designed and implemented two all-nearest-neighbor-algorithm-based parallel algorithms of the Traveling Salesman Problem and reached a speedup of 2-3x
 -	Led a 3-student team, coordinated the work among teammates to complete the implementation process, a final presentation, and a written report
 -	Published a paper “Parallelizing the All-Nearest-Neighbor Algorithm for Travelling Salesman Problem”, The 2nd International Conference on Automation Control, Algorithm and Intelligent Bionics (ACAIB 2022), December 2021
